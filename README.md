@@ -20,7 +20,7 @@ All core algorithms are free and open source. Check the documentation to get sta
 Each tool includes basic documentation explaining both implementation and mathematical concepts.
 
 ## 🌟 Premium Features
-Looking for a user-friendly interface? Check out [DataGrove.com](https://datagrove.com) for our premium GUI tools and additional features.
+Looking for a user-friendly interface? Check out [DataGroveAI.com](https://datagroveAI.com) for our premium GUI tools and additional features.
 
 ## 📝 License
 MIT License - feel free to use in your own projects!
